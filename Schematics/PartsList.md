@@ -22,3 +22,5 @@
 2x neopixel 8LED strips #WS2812
 #
 1x UAA2022 16bit shift register
+#
+1x Aruino Nano
